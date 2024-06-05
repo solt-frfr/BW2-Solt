@@ -1,30 +1,27 @@
-# BW2-Corb
-Corbin in Pokemon Black 2 / White 2
+# BW2-Solt
+Myself in Pokemon Black 2 / White 2
 
 ### Todo
 
-- [ ] Gender Select Sprites
+- [ ] X-Transiver Sprites
+- [ ] Mugshots / VS Sprites
+- [ ] Battle Sprites
+- [ ] Bike Sprites
+- [ ] Surf Sprites
+- [ ] Item Pickup Sprites
+- [ ] HM Sprites
+- [ ] Pokemon Center Sprites
+- [ ] Tightrope Sprites
+- [ ] Fishing Sprites
+- [ ] Misc. Sprites in models
 - [ ] a030.narc
 - [ ] Trainer Card
-  - [ ] Palettes
-  - [ ] Sprite  
+- [ ] Gender Select Sprites
 
 ### In Progress
 
-- [ ] Taking a break
+- [ ] Walk / Run Sprites
 
 ### Done ✓
 
 - [x] murder
-- [x] X-Transiver Sprites
-- [x] Mugshots / VS Sprites
-- [x] Battle Sprites
-- [x] Walk / Run Sprites
-- [x] Bike Sprites
-- [x] Surf Sprites
-- [x] Item Pickup Sprites
-- [x] HM Sprites
-- [x] Pokemon Center Sprites
-- [x] Tightrope Sprites
-- [x] Fishing Sprites
-- [x] Misc. Sprites in models
