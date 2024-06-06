@@ -5,13 +5,12 @@ Myself in Pokemon Black 2 / White 2
 
 - [ ] X-Transiver Sprites
 - [ ] Mugshots / VS Sprites
-- [ ] Battle Sprites
 - [ ] Gender Select Sprites
 - [ ] Misc. Sprites in models
 
 ### In Progress
 
-
+- [ ] Battle Sprites
 
 ### Done ✓
 
