@@ -8,8 +8,6 @@ Myself in Pokemon Black 2 / White 2
 
 ### In Progress
 
-- [ ] Misc. Sprites in models
-
 ### Done ✓
 
 - [x] murder
@@ -26,3 +24,4 @@ Myself in Pokemon Black 2 / White 2
 - [x] Mugshots / VS Sprites
 - [x] Battle Sprites
 - [x] X-Transiver Sprites
+- [x] Misc. Sprites in models
