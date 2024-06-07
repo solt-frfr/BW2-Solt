@@ -4,11 +4,11 @@ Myself in Pokemon Black 2 / White 2
 ### Todo
 
 - [ ] Gender Select Sprites
-- [ ] Misc. Sprites in models
+
 
 ### In Progress
 
-- [ ] X-Transiver Sprites
+- [ ] Misc. Sprites in models
 
 ### Done ✓
 
@@ -25,3 +25,4 @@ Myself in Pokemon Black 2 / White 2
 - [x] Trainer Card
 - [x] Mugshots / VS Sprites
 - [x] Battle Sprites
+- [x] X-Transiver Sprites
